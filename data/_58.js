@@ -1,0 +1,1 @@
+var json__58 = {"type":"FeatureCollection","name":"_58","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"Приразломное месторождение"},"geometry":{"type":"Point","coordinates":[57.342781993,69.251945221]}}]}
